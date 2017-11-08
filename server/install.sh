@@ -2,8 +2,8 @@
 usage() {
   echo "$ ./install.sh [options]"
   echo "options:"
-  echo "-http,       for real-world deployment on a server"
-  echo "-https,       for trail purpose on a local VM"
+  echo "-s,       for real-world deployment on a server"
+  echo "-l,       for trial purpose on a local VM"
   exit 1;
 }
 

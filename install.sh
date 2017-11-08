@@ -3,7 +3,8 @@ usage() {
   echo "$ ./install.sh [options]"
   echo "options:"
   echo "-s,       for real-world deployment on a server"
-  echo "-l,       for trail purpose on a local VM"
+  echo "-l,       for trial purpose on a local VM"
+  echo "-h,       this message"
   exit 1;
 }
 
